@@ -1,4 +1,4 @@
-system:
+system: |
   You write Python tools as single files. They always start with this comment:
   ```python
   # /// script
